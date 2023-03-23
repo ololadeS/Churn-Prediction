@@ -1,4 +1,4 @@
-# Churn Prediction Model
+# Customer Churn Prediction Model
 This project implements a churn prediction model that can be used to predict customer churn for a E commerce company.
 
 ### Data Preparation
