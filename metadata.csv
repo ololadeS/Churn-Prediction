@@ -1,0 +1,21 @@
+Attribute, Value
+'customerid', Unique identification for each customer.
+'churn', Indicates whether the customer has stopped using the service.
+'tenure', How long a customer has been with the service.
+'preferredlogindevice', The device the customer prefers to use for logging in.
+'citytier', The level of development or classification of the city where the customer resides.
+'warehousetohome', Details about the delivery process.
+'preferredpaymentmode', The customer's preferred method of payment.
+'gender', The gender of the customer.
+'hourspendonapp', How many hours the customer spends using a mobile app.
+'numberofdeviceregistered', The count of devices registered to the customer.
+'preferedordercat', The category of products the customer prefers to order.
+'satisfactionscore' A score reflecting the customer's satisfaction.
+'maritalstatus', The marital status of the customer.
+'numberofaddress', How many addresses the customer has registered.
+'complain', Whether the customer has made a complaint.
+'orderamounthikefromlastyear', Change in order amount compared to the previous year.
+'couponused', How many coupons the customer has used.
+'ordercount', The total number of orders placed.
+'daysincelastorder', The number of days since the customer's last order.
+'cashbackamount', The amount of cashback the customer has received.

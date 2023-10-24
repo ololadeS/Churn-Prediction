@@ -1,0 +1,6 @@
+Recommendation base on coefficient correlation
+Address Customer Complaints: Given the weak positive correlation (0.23) between customer complaints and churn, it's essential to pay close attention to customer complaints. Implement effective complaint resolution processes and customer support to mitigate churn.
+
+User Experience Enhancement: Investigate the user experience across different devices, as a weak positive correlation (0.15) suggests that customers with more registered devices may have a slightly higher churn rate. Ensuring a consistent and satisfactory experience across all devices can help retain customers.
+
+Satisfaction Improvement: Given the weak positive correlation (0.10) between satisfaction scores and churn, focus on improving customer satisfaction. Gather feedback, conduct surveys, and make necessary changes to enhance overall satisfaction. Happy customers are less likely to churn.
